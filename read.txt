@@ -1,0 +1,3 @@
+Core:
+    ganache-cli : run ganache
+    truffle migrate --reset : deploy contract by script in mugrate folder
